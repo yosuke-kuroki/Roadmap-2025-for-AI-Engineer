@@ -95,7 +95,7 @@ https://docs.python.org/release/3.12.0/
 
 ### 7. MLOPS (Machine Learning Operation)
 
-![image](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024/assets/20041231/9eca24f9-b684-4eba-af96-b107f774d19e)
+![image](https://github.com/yosuke-kuroki/Perfect-Roadmap-To-Learn-Data-Science-In-2024/assets/20041231/9eca24f9-b684-4eba-af96-b107f774d19e)
 
 **Live MLOPS Playlist** : [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=jpU8F0M5axo&list=PLmQAMKHKeLZ9iaLWBULDE_hiPtOiHiDz0)
 
@@ -114,7 +114,7 @@ https://docs.python.org/release/3.12.0/
 
 #### Agile Software Development And Data Science Project Development Life Cycle [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=gYsU2VTESE8)
 
-![image](https://github.com/krishnaik06/Roadmap-2025-for-AI-Engineer/assets/20041231/ff5cfa84-8920-435c-b278-3071ad806263)
+![image](https://github.com/yosuke-kuroki/Roadmap-2025-for-AI-Engineer/assets/20041231/ff5cfa84-8920-435c-b278-3071ad806263)
 
 #### End To End ML,DL,NLP Projects With MLOPS With Deployment And Open Source Tools
 
@@ -168,9 +168,9 @@ https://drive.google.com/file/d/18doA_wMja2nAawcE6imIcfnEMf-Pir2n/view
 
 ## Youtube Channels For Referring All Videos. Consider Subscribing and pressing the bell icon.
 
-- Krish Naik : https://www.youtube.com/@krishnaik06
+- Krish Naik : https://www.youtube.com/@yosuke-kuroki
 - Krish Naik Hindi: https://www.youtube.com/@krishnaikhindi
 - Success Stories By Krish(Coming up): https://www.youtube.com/channel/UCNSHtBgZ3dhcpv190JrK_LQ
 - Support Channel and Join this channel to get access to perks: https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig/join our Data Science Project
-- Instagram [![YouTube](https://img.shields.io/badge/Instagram-link-red)](https://instagram.com/krishnaik06)
+- Instagram [![YouTube](https://img.shields.io/badge/Instagram-link-red)](https://instagram.com/yosuke-kuroki)
 - Telegram [![YouTube](https://img.shields.io/badge/Telegram-link-red)](https://t.me/+V0UeLG8ji-F8ThNb)
