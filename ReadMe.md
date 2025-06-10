@@ -28,7 +28,7 @@ https://docs.python.org/release/3.12.0/
 
 ## 2. Statistics
 
-![image](https://github.com/krishnaik06/AI-Engineer-Roadmap-2024/assets/20041231/c28b56d7-30f0-48ae-8fec-d2fb3a690836)
+![image](https://github.com/yosuke-kuroki/Roadmap-2025-for-AI-Engineer/assets/20041231/c28b56d7-30f0-48ae-8fec-d2fb3a690836)
 
 1. English: 7 Days Statistics Live Session : [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
 
@@ -114,7 +114,7 @@ https://docs.python.org/release/3.12.0/
 
 #### Agile Software Development And Data Science Project Development Life Cycle [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=gYsU2VTESE8)
 
-![image](https://github.com/krishnaik06/AI-Engineer-Roadmap-2024/assets/20041231/ff5cfa84-8920-435c-b278-3071ad806263)
+![image](https://github.com/krishnaik06/Roadmap-2025-for-AI-Engineer/assets/20041231/ff5cfa84-8920-435c-b278-3071ad806263)
 
 #### End To End ML,DL,NLP Projects With MLOPS With Deployment And Open Source Tools
 
