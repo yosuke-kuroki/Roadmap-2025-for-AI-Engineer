@@ -161,16 +161,3 @@ https://docs.python.org/release/3.12.0/
 ![Red White Modern Youtube Thumbnail (2)](https://user-images.githubusercontent.com/20041231/211718275-abc43b47-b53d-40d7-a93c-24aceaa6bec8.jpg)
 
 iNeuron Internships: https://internship.ineuron.ai/
-
-## Data Science Tracker Sheet For Learning
-
-https://drive.google.com/file/d/18doA_wMja2nAawcE6imIcfnEMf-Pir2n/view
-
-## Youtube Channels For Referring All Videos. Consider Subscribing and pressing the bell icon.
-
-- Krish Naik : https://www.youtube.com/@yosuke-kuroki
-- Krish Naik Hindi: https://www.youtube.com/@krishnaikhindi
-- Success Stories By Krish(Coming up): https://www.youtube.com/channel/UCNSHtBgZ3dhcpv190JrK_LQ
-- Support Channel and Join this channel to get access to perks: https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig/join our Data Science Project
-- Instagram [![YouTube](https://img.shields.io/badge/Instagram-link-red)](https://instagram.com/yosuke-kuroki)
-- Telegram [![YouTube](https://img.shields.io/badge/Telegram-link-red)](https://t.me/+V0UeLG8ji-F8ThNb)
